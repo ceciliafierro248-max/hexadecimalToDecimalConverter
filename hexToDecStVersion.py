@@ -73,7 +73,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.table(data=hexNumbers, width=int(125), height="stretch")
 with col2:
-    st.image("/Users/ceciliafierro/Desktop/hexademicalToDecimalToBinary.jpg")
+    st.image("hexademicalToDecimalToBinary.jpg")
     st.markdown("")
     st.markdown("")
     st.link_button("Interested in more information? Click me!", "https://www.khanacademy.org/math/algebra-home/alg-intro-to-algebra/algebra-alternate-number-bases/v/hexadecimal-number-system")
