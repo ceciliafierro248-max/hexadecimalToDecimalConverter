@@ -3,6 +3,6 @@ This Streamlit app contains some basic information about hexadecimals and a hexa
 <br>
 <br>
 # Important Note
-Though this project was originally intended for Streamlit deployment, it is currently deployed on Github Pages.
+Though this project was originally intended for Streamlit deployment, it is currently only deployed on Github Pages. See link below.
 
-Link → 
+Link → https://ceciliafierro248-max.github.io/hexadecimalToDecimalConverter/
